@@ -2,7 +2,9 @@
 
 Monokai color scheme for Vim converted with [coloration](http://coloration.sickill.net) from Textmate theme with the same name.
 
-Changes by @hubertgrzeskowiak: transparent background.
+Changes by @hubertgrzeskowiak:
+- transparent background
+- proper XML highlighting
 
 ## Screenshots
 
